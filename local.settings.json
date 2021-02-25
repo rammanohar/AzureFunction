@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "CosmosDb": {
+    "Account": "https://autinojob.documents.azure.com:443/",
+    "Key": "82l4jlwPSmuvvpPOQf1irRYlWfrJpOSRe0k0cRVp9hq7hT3gEguXX",
+    "DatabaseName": "GarageCampaign",
+    "ContainerName": "CampaignJob",
+    "PartionId": "/id"
+  }
+}
